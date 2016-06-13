@@ -1,0 +1,904 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"fonts",
+				"font-style"
+			],
+			[
+				"bl",
+				"blue-1"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ban",
+				"banner-text"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"desktop",
+				"desktop-nav"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"scroll",
+				"scrollLeft"
+			],
+			[
+				"show",
+				"show-right-shadow"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"colo",
+				"color-muted-text"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"set",
+				"setAttribs"
+			],
+			[
+				"ac",
+				"action	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1960,
+				"line_ending": "Windows",
+				"name": "// Include gulp"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 776,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/hannah_moore/Desktop/grumpy",
+		"/C/Users/hannah_moore/Desktop/grumpy/app"
+	],
+	"file_history":
+	[
+		"/C/Users/hannah_moore/Desktop/grumpy/grympy.sublime-project",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/_testimonial.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/litigation.php",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/_contact-form.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/_footer.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/head.php",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/nav/_main-nav.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/_banner.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/header.php",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/_header.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/footer.php",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/_variables.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/_global.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/_homepage.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/style.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/index.php",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/mixins/_rem.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/style.css",
+		"/C/Users/hannah_moore/Documents/Work/Scott/banner.php",
+		"/C/Users/hannah_moore/Desktop/StatewideNew/app/_CSS/_base.scss",
+		"/C/Users/hannah_moore/Desktop/StatewideNew/app/_CSS/styles.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/js/desktopNav.js",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/nav/main-nav.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/js/init.js",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/nav/main-nav.css",
+		"/C/Users/hannah_moore/Documents/Work/Scott/.sass-cache/ca7b82db8bb53756b43edc5797bfb745a703d7a1/main-nav.scssc",
+		"/C/Users/hannah_moore/Documents/Work/Scott/.sass-cache/2f94903f40bb39c7fa763b8850c45d92f2598b42/main-nav.scssc",
+		"/C/Users/hannah_moore/Documents/Work/Scott/js/mobilenav.js",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/footer.scss",
+		"/C/Users/hannah_moore/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/hannah_moore/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/reset.scss",
+		"/C/Users/hannah_moore/Documents/Work/Scott/css/style.css.map",
+		"/C/Users/hannah_moore/Documents/Work/Scott/head.html",
+		"/C/Users/hannah_moore/Documents/Work/Scott/index.html",
+		"/C/Users/hannah_moore/Desktop/NSCD files/wp-content/themes/nscd/home.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/wp-content/themes/nscd/header.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/wp-config.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/wp-content/themes/nscd/author.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/wp-content/themes/nscd/authors.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/wp-content/themes/nscd/footer.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/wp-content/themes/nscd/blog.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/wp-admin/admin-post.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/wp-content/themes/nscd/functions.php",
+		"/C/Users/hannah_moore/Desktop/imageToggle.js",
+		"/C/Users/hannah_moore/Desktop/digital.php",
+		"/C/Users/hannah_moore/Desktop/print.php",
+		"/C/Users/hannah_moore/Desktop/personal.php",
+		"/C/Users/hannah_moore/Desktop/work.css",
+		"/C/Users/hannah_moore/Desktop/main.css",
+		"/C/Users/hannah_moore/Desktop/wordpress/wp-config.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/squirrel/functions.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/nscd/functions.php",
+		"/C/Users/hannah_moore/Downloads/wp-config (3).php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/nscd/single.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/nscd/header.php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/nscd/home.php",
+		"/C/Users/hannah_moore/Desktop/NSCD Hannah/functions.php",
+		"/C/Users/hannah_moore/Downloads/wp-login (2).php",
+		"/C/Users/hannah_moore/Downloads/wp-config (4).php",
+		"/C/Users/hannah_moore/Desktop/NSCD files/nscd/functions/admin-interface.php",
+		"/C/Users/hannah_moore/Downloads/header.php",
+		"/C/Users/hannah_moore/Downloads/page.php",
+		"/C/Users/hannah_moore/Downloads/blog.php",
+		"/C/Users/hannah_moore/Downloads/single.php",
+		"/C/Users/hannah_moore/Downloads/home.php",
+		"/C/Users/hannah_moore/Desktop/hannahwm_nscd.sql",
+		"/C/Users/hannah_moore/Desktop/functions.php",
+		"/C/Users/hannah_moore/Downloads/wp-login (1).php",
+		"/C/Users/hannah_moore/Desktop/wp-login.php",
+		"/C/Users/hannah_moore/Downloads/wp-config (2).php",
+		"/C/Users/hannah_moore/Downloads/wp-login.php",
+		"/C/Users/hannah_moore/Desktop/wp-config.php",
+		"/C/Users/hannah_moore/Downloads/wp-config.php",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/messages/messages.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/Sites.MembersNet/CCA.MembersNet.Web/Areas/MembersNet/Views/Core/Renderings/Modules/SignIn/SignInHelp.cshtml",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/Sites.MembersNet/CCA.MembersNet.Web/Areas/MembersNet/Views/Core/Renderings/Modules/SignIn/SignInSimpleContent.cshtml",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/_variables.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/Sites.MembersNet/CCA.MembersNet.Web/Areas/MembersNet/Views/Core/Renderings/Modules/SignIn/SignedOutSimpleContent.cshtml",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/Sites.MembersNet/CCA.MembersNet.Web/Areas/MembersNet/Views/Core/Renderings/Modules/ProfileAndSettings/UpdateProfileForm.cshtml",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/Sites.MembersNet/CCA.MembersNet.Web/Areas/MembersNet/Views/Core/Renderings/Global/Header.cshtml",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/mixins/_actions.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/global/_forms.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/global/_back.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_Images/MembersNet/content-managed/nomail.svg",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/messages/messages.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_sprites/search.svg",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/calendar/_event-detail-advanced.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/global/_global.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/help-center/help-center-detail.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/help-center/help-detail-nav.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/help-center/_help-center-detail.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/profile/_profile.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/help-center/help-center-helpful.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/calendar/event-detail.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_Images/MembersNet/content-managed/thumbs-down.svg",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_Images/svg/thumbs-down.svg",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/_base.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/profile/profile-notifications.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/generic/generic-page.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/custom-section/custom-section.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/global/_rtf.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/generic/_generic-page.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/profile/profile-select.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/pages/Sprint6/dashboard-first-run.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/pages/Sprint6/help-center-detail.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/responsive-tables.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/_responsive-tables.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_JS/plugins/horizontal-scroll.js",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/head.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/discussions/_discussions-new.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/discussions/discussions-detail.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/discussions/_discussion-detail.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/discussions/discussions-new.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_JS/plugins/tinymce.js",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/groups/group-ideas.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_JS/plugins/dropzone-attachments.js",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_JS/library/dropzone.js",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_JS/library/tinymce/tinymce.min.js",
+		"/C/Users/hannah_moore/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/.scratch/_CSS/ie8.css",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_JS/plugins/CCA.ModalEditDocs.js",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/groups/group-add-folder.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/groups/group-add-file.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/groups/_group-ideas.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_CSS/modules/groups/_group-ideas-list.scss",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/modules/groups/group-ideas-list.html",
+		"/C/Users/hannah_moore/Documents/cca/local8.members.net/_etc/FEE/MembersNet/app/_Images/MembersNet/content-managed/lightbulb-gray.svg"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Users\\hannah_moore\\Documents\\Work\\Scott",
+			"<project>",
+			"<current file>,C:\\Users\\hannah_moore\\Desktop\\NSCD files\\nscd",
+			"<current file>",
+			"<project>",
+			"C:\\Users\\hannah_moore\\Documents\\cca\\local8.members.net\\_etc\\FEE\\MembersNet\\app\\_CSS",
+			"C:\\Users\\hannah_moore\\Documents\\cca\\local8.members.net\\_etc\\FEE\\MembersNet\\app\\_JS",
+			"C:\\Users\\hannah_moore\\Documents\\cca\\local8.members.net\\_etc\\FEE\\MembersNet\\app\\_CSS",
+			"C:\\Users\\hannah_moore\\Documents\\cca\\local8.members.net\\_etc\\FEE\\MembersNet\\app\\_JS",
+			"C:\\Users\\hannah_moore\\Documents\\cca\\local8.members.net\\_etc\\FEE\\MembersNet\\app\\_CSS",
+			"C:\\Users\\hannah_moore\\Documents\\cca\\MembersNet\\app\\_CSS"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"php",
+			"66",
+			"’",
+			"contact__title",
+			"Name",
+			"name",
+			"Name",
+			"name",
+			"intro",
+			"baseline",
+			"sub-item",
+			"desktop-nav",
+			"mobile-nav__target",
+			"mobile-nav__trigger",
+			"mobile-nav__target",
+			"mobile-nav__trigger",
+			"img",
+			"5",
+			"work_2",
+			"work_2_right",
+			"personal",
+			"what should i do",
+			"<div class=\"logo",
+			"admin",
+			"hannah",
+			"hannahwmoore.com/Work/NSCD",
+			"hannah",
+			"http://your.domain.name/the/path",
+			"hannahwm_nscd",
+			"conversation-list",
+			"breadcrumb-wrap",
+			".button ",
+			".button",
+			"event-actions",
+			".add-button",
+			".messages-actions",
+			"messages-actions",
+			"profile-select",
+			"$red-1",
+			"yes",
+			"gener",
+			"generic__title",
+			"Dashboard - First run",
+			"'",
+			"right",
+			"\")",
+			"(\"",
+			"'",
+			"prev",
+			"'",
+			".responsive-scroll",
+			"right",
+			"'",
+			"lastLeftLocation",
+			"lastScrollLeft",
+			"addButtonRight",
+			"Right",
+			"customscroll",
+			"roboto",
+			"fonts",
+			"google.com/font",
+			"google.com",
+			"Roboto",
+			":Roboto",
+			"add-idea-modal-",
+			"add-idea-modal-2",
+			";\n",
+			"close-x",
+			"wysiwyg-area--tall",
+			"remove",
+			"discussions-remove",
+			"drop file",
+			"drop files here",
+			"drop file",
+			"drag file",
+			"--empty",
+			"    \n",
+			"empty",
+			"group-detail-modal",
+			"idea-challenge__a",
+			"idea-info__content",
+			"idea-list__item",
+			"idea-list__item-content",
+			"'",
+			"idea-list_",
+			"idea-list__title",
+			"--tags",
+			"styled-select",
+			"form-label",
+			"label",
+			"generic-form__input",
+			"button",
+			".select2--tags",
+			".select2--tags .select2-selection .select2-selection__rendered",
+			"idea-challenge__add",
+			"add-idea-moda",
+			"select2--tags",
+			"data-moda",
+			"submo",
+			"group-detail-modal",
+			"modal-form",
+			"dz-message",
+			"group-detail-modal",
+			"group-deta",
+			"tool",
+			"bookmark-list__confirm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mobile-nav-target",
+			"mobile-nav-trigger",
+			"mobile-nav-target",
+			"mobile-nav-trigger",
+			"northshorecollaborativedivorce.com/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// Include gulp",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "grumpy.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"messa",
+				"app\\modules\\messages\\messages.html"
+			],
+			[
+				"act",
+				"app\\_CSS\\mixins\\_actions.scss"
+			],
+			[
+				"sear",
+				"app\\_sprites\\search.svg"
+			],
+			[
+				"var",
+				"app\\_CSS\\_variables.scss"
+			],
+			[
+				"messascs",
+				"app\\_CSS\\modules\\messages\\messages.scss"
+			],
+			[
+				"messages",
+				"app\\modules\\messages\\messages.html"
+			],
+			[
+				"form",
+				"app\\_CSS\\modules\\global\\_forms.scss"
+			],
+			[
+				"pros",
+				"app\\_CSS\\modules\\profile\\_profile.scss"
+			],
+			[
+				"va",
+				"app\\_CSS\\_variables.scss"
+			],
+			[
+				"eve",
+				"app\\modules\\calendar\\event-detail.html"
+			],
+			[
+				"rt",
+				"app\\_CSS\\modules\\global\\_rtf.scss"
+			],
+			[
+				"gen",
+				"app\\modules\\generic\\generic-page.html"
+			],
+			[
+				"cust",
+				"app\\modules\\custom-section\\custom-section.html"
+			],
+			[
+				"rtf",
+				"app\\_CSS\\modules\\global\\_rtf.scss"
+			],
+			[
+				"profse",
+				"app\\modules\\profile\\profile-select.html"
+			],
+			[
+				"pron",
+				"app\\modules\\profile\\profile-notifications.html"
+			],
+			[
+				"hori",
+				"app\\_JS\\plugins\\horizontal-scroll.js"
+			],
+			[
+				"res",
+				"app\\_CSS\\modules\\_responsive-tables.scss"
+			],
+			[
+				"base",
+				"app\\_CSS\\_base.scss"
+			],
+			[
+				"discu.sc",
+				"app\\_CSS\\modules\\discussions\\_discussion-detail.scss"
+			],
+			[
+				"discus",
+				"app\\modules\\discussions\\discussions-detail.html"
+			],
+			[
+				"disc.s",
+				"app\\_CSS\\modules\\discussions\\_discussions-new.scss"
+			],
+			[
+				"head",
+				"app\\modules\\head.html"
+			],
+			[
+				"idea",
+				"app\\modules\\groups\\group-ideas.html"
+			],
+			[
+				"drop",
+				"app\\_JS\\library\\dropzone.js"
+			],
+			[
+				"discu",
+				"app\\modules\\discussions\\discussions-detail.html"
+			],
+			[
+				"tiny",
+				"app\\_JS\\plugins\\tinymce.js"
+			],
+			[
+				"disnew.",
+				"app\\_CSS\\modules\\discussions\\_discussions-new.scss"
+			],
+			[
+				"dis",
+				"app\\modules\\discussions\\discussions-new.html"
+			],
+			[
+				"disc",
+				"app\\modules\\discussions\\discussions-detail.html"
+			],
+			[
+				"mess",
+				"app\\modules\\messages\\messages.html"
+			],
+			[
+				"add-",
+				"app\\modules\\groups\\group-add-file.html"
+			],
+			[
+				"atta",
+				"app\\_JS\\plugins\\dropzone-attachments.js"
+			],
+			[
+				"gruadd",
+				"app\\modules\\groups\\group-ideas-add.html"
+			],
+			[
+				"gradf",
+				"app\\modules\\groups\\group-add-file.html"
+			],
+			[
+				"addf",
+				"app\\modules\\groups\\group-add-folder.html"
+			],
+			[
+				"groida",
+				"app\\modules\\groups\\group-ideas-add.html"
+			],
+			[
+				"gruid",
+				"app\\modules\\groups\\group-ideas.html"
+			],
+			[
+				"groid",
+				"app\\modules\\groups\\group-ideas-list.html"
+			],
+			[
+				"regi",
+				"app\\modules\\calendar\\event-registration.html"
+			],
+			[
+				"forms",
+				"app\\_CSS\\modules\\global\\_forms.scss"
+			],
+			[
+				"winn",
+				"app\\modules\\groups\\group-ideas-winner-list.html"
+			],
+			[
+				"idel",
+				"app\\modules\\groups\\group-ideas-list.html"
+			],
+			[
+				"grodet",
+				"app\\_CSS\\modules\\groups\\_group-detail.scss"
+			],
+			[
+				"ideadd",
+				"app\\modules\\groups\\group-ideas-add.html"
+			],
+			[
+				"glob",
+				"app\\_JS\\global.js"
+			],
+			[
+				"had",
+				"app\\modules\\head.html"
+			],
+			[
+				"moda",
+				"app\\_JS\\plugins\\verndale-modal.js"
+			],
+			[
+				"gr.sc",
+				"app\\_CSS\\modules\\groups\\_groups.scss"
+			],
+			[
+				"ideaa",
+				"app\\modules\\groups\\group-ideas-add.html"
+			],
+			[
+				"hea",
+				"app\\modules\\head.html"
+			],
+			[
+				"grof",
+				"app\\modules\\groups\\group-file-edit.html"
+			],
+			[
+				"gro",
+				"app\\_CSS\\modules\\groups\\_group-shared.scss"
+			],
+			[
+				"dr",
+				"app\\_JS\\library\\dropzone.js"
+			],
+			[
+				"alep",
+				"app\\modules\\alerts\\alerts-page-no-results.html"
+			],
+			[
+				"aleno",
+				"app\\pages\\Sprint2\\alerts-no-results.html"
+			],
+			[
+				"ale.sc",
+				"app\\_CSS\\modules\\alerts\\_alerts.scss"
+			],
+			[
+				"alerts",
+				"app\\modules\\alerts\\alerts-page.html"
+			],
+			[
+				"gro.sc",
+				"app\\_CSS\\modules\\groups\\_group-shared.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

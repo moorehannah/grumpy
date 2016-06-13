@@ -1,0 +1,13 @@
+html {
+  @include font-opensans;
+  font-size: 62.5%;
+}
+
+.divider {
+  width: 100%;
+  height: 5px;
+  opacity: .2;
+  box-shadow: 0 2px 4px $grey;
+  background-color: transparent;
+  border: 0;
+}

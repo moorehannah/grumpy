@@ -1,0 +1,129 @@
+.footer {
+  @include clearfix();
+  padding: 20px;
+  color: $grey3;
+  background-color: $grey;
+
+  @media screen and (min-width: $tablet-min) {
+    padding: 40px 20px;
+  }
+
+  @media screen and (min-width: $desktop-min) {
+    padding: 65px 20px 60px;
+  }
+}
+
+.footer-menu {
+  @media screen and (min-width: $tablet-min) {
+    display: table;
+    width: 100%;
+    margin: 0 20px;
+  }
+
+  @media screen and (min-width: $desktop-min) {
+    box-sizing: border-box;
+    max-width: 980px;
+    margin: 0 auto;
+    padding-left: 40px;
+  }
+}
+
+.footer-menu__item {
+  @include font-opensans;
+  @include rem(font-size, 16);
+  position: relative;
+  clear: left;
+  cursor: pointer;
+  float: left;
+  margin-bottom: 20px;
+  padding-right: 20px;
+
+  &:before {
+    @include rem(font-size, 20);
+    display: block;
+    position: absolute;
+    top: 5px;
+    right: 0;
+    content: "";
+    width: 0; 
+    height: 0; 
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    
+    border-top: 5px solid $grey3;
+    border-bottom: 0;
+    
+    @media screen and (min-width: $tablet-min) {
+      display: none;
+    }
+  }
+
+  &.is-open {
+    &:before {
+      @include rem(font-size, 20);
+      display: block;
+      position: absolute;
+      top: 5px;
+      right: 0;
+      content: "";
+      width: 0; 
+      height: 0; 
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-top: 0;
+      border-bottom: 5px solid $grey3;
+
+      @media screen and (min-width: $tablet-min) {
+        display: none;
+      }
+    }
+  }
+
+  @media screen and (min-width: $tablet-min) {
+    @include rem(font-size, 21);
+    display: table-cell;
+    cursor: default;
+    float: none;
+    margin-bottom: 0;
+  }
+}
+
+.footer-links {
+  display: none;
+
+  @media screen and (min-width: $tablet-min) {
+    display: block;
+  }
+}
+
+.footer-links__item {
+  @include rem(font-size, 12);
+  display: block;
+  margin: 5px 0 0 10px;
+
+  &:first-child {
+    margin-top: 15px;
+  }
+
+  &:hover {
+    text-decoration: underline;
+  }
+
+  @media screen and (min-width: $tablet-min) {
+    @include rem(font-size, 15);
+    clear: left;
+    float: left;
+    margin: 5px 0 0;
+
+    &:first-child {
+      margin-top: 20px;
+    }
+  }
+
+  a {
+    text-decoration: none;
+    color: $grey3;
+  }
+
+
+}

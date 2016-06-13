@@ -1,0 +1,51 @@
+.banner {
+  position: relative;
+  width: 100%;
+  height: 40vw;
+  clear: both;
+  background: url('../images/banner.jpg') no-repeat center center $grey;
+  background-size: auto 100%;
+
+  @media screen and (min-width: $tablet-min) {
+    height: 350px;
+  }
+
+  @media screen and (min-width: $desktop-min) {
+    height: 500px;
+  }
+}
+
+.banner__title {
+  @include font-opensans;
+  @include rem(font-size, 18);
+  display: block;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  font-weight: bold;
+  line-height: 1.25em;
+  color: $white;
+
+  @media screen and (min-width: 500px) {
+    @include rem(font-size, 24);
+  }
+
+  @media screen and (min-width: $tablet-min) {
+    @include rem(font-size, 34);
+
+  }
+
+  @media screen and (min-width: 900px) {
+    @include rem(font-size, 42);
+  }
+
+  @media screen and (min-width: $desktop-min) {
+    @include rem(font-size, 48);
+    position: relative;
+    top: 90px;
+    left: 0;
+    max-width: 980px;
+    margin: 0 auto;
+    padding-left: 30px;
+  }
+}
